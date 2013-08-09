@@ -1,0 +1,4 @@
+class: edu.cmu.lti.oaqa.experimental_impl.passage.searcher.EphyraPassageReranker
+
+persistence-provider: |
+  inherit: ecd.default-log-persistence-provider

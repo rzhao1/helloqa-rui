@@ -1,0 +1,5 @@
+class:  edu.cmu.lti.oaqa.openqa.dso.question.EphyraAnswerTypeExtractor;
+
+ 
+persistence-provider: |
+  inherit: ecd.default-log-persistence-provider

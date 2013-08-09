@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/ant/ant-contrib-1.0b3.jar"/>
+	<classpathentry kind="lib" path="lib/ant/checkstyle-5.4-all.jar"/>
+	<classpathentry kind="lib" path="lib/ant/ecj-3.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/ant/ganymed.jar"/>
+	<classpathentry kind="lib" path="lib/ant/javasvn.jar"/>
+	<classpathentry kind="lib" path="lib/ant/org.ant4eclipse_1.0.0.M4.jar"/>
+	<classpathentry kind="lib" path="lib/ant/org.eclipse.osgi_3.5.2.R35x_v20100126.jar"/>
+	<classpathentry kind="lib" path="lib/ant/pmd-4.2.6.jar"/>
+	<classpathentry kind="lib" path="lib/ant/svnant.jar"/>
+	<classpathentry kind="lib" path="lib/ant/svnClientAdapter.jar"/>
+	<classpathentry kind="lib" path="lib/ant/svnjavahl.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/activeio-core-3.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/activemq-all-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/activemq-camel-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/activemq-console-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/activemq-core-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/activemq-jaas-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/activemq-jmdns_1.0-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/activemq-optional-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/activemq-pool-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/activemq-protobuf-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/activemq-rar-5.4.1.rar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/activemq-spring-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/activemq-web-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/activemq-xmpp-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/antlr-runtime-3.2.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/camel-core-2.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/camel-jetty-2.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/camel-jms-2.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/camel-spring-2.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/commons-beanutils-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/commons-codec-1.2_2.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/commons-dbcp-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/commons-httpclient-3.1-rc1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/commons-net-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/geronimo-j2ee-connector_1.5_spec-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/geronimo-j2ee-management_1.1_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/geronimo-jms_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/geronimo-jta_1.0.1B_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/icu4j-4.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/jasypt-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/jaxb-impl-2.1.6.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/jettison-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/josql-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/junit-4.7.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/jVinci.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/kahadb-5.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/protobuf-java-2.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/slf4j-api-1.5.10.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/slf4j-log4j12-1.5.10.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/spring-aop-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/spring-asm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/spring-beans-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/spring-context-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/spring-core-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/spring-expression-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/spring-jms-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/spring-oxm-tiger-1.5.8.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/spring-tx-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/stax-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/stax2-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/uima-adapter-soap.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/uima-adapter-vinci.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/uima-core.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/uima-cpe.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/uima-document-annotation.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/uima-examples.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/uima-tools.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/uimaj-as-activemq.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/uimaj-as-camel.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/uimaj-as-core.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/uimaj-as-jms.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/uimaj-bootstrap.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/velocity-1.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/woodstox-core-asl-4.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/xbean-spring-3.7.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/xmlpull-1.1.3.4d_b4_min.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline-deps/xstream-1.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/arq-2.8.8.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/icu4j-3.4.4.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/iri-0.8.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/jena-2.6.4-tests.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/jena-2.6.4.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/lucene-core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/tdb-0.8.10-tests.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/tdb-0.8.10.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/virt_jena.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/virtjdbc3.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/virtjdbc4.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/wstx-asl-3.2.9.jar"/>
+	<classpathentry kind="lib" path="lib/dso/rdf/xercesImpl-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/dso/annotation-index-pipeline.jar"/>
+	<classpathentry kind="lib" path="lib/dso/racr-libs.jar"/>
+	<classpathentry kind="lib" path="lib/dso/racr.model.jar"/>
+	<classpathentry kind="lib" path="lib/dso/stanford-tregex.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/commons-math-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/ephyra.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/IndexUI.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/indri.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/javelin.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/json.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/junit-4.7.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/jwnl.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/lemur.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/lingpipe.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/maxent.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/minorthird.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/opennlp-tools.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/plingstemmer.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/RetUI.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/simmetrics_jar_v1_6_2_d07_02_07.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/snowball.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/stanford-ner.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/stanford-parser.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/weka.jar"/>
+	<classpathentry kind="lib" path="lib/ephyra/wikixmlj-r43.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/oaqa/joda-time-1.6.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

@@ -1,0 +1,26 @@
+configuration: 
+  name: Dso Project
+  author: Rui Wang
+collection-reader:
+  inherit: 
+  InputDirectory: data/
+  
+pipeline:  
+     - inherit: helloqa.desc.AnswerTypeExtractor
+    
+     - inherit: helloqa.desc.ICEventExtractor
+     
+     - inherit: helloqa.desc.KeytermExtractor
+     
+     - inherit: hellopqa.desc.RDFSearcher
+     
+     - inherit: helloqa.desc.searchers
+     
+     - inherit: helloqa.desc.passageReranker    
+     
+     - inherit: helloqa.desc.InformationExtractor
+     
+     - inherit: helloqa.desc.AnswerGenerator
+
+    # - inherit: corpus-annotation.cas_consumer.XmiWriterCasConsumer
+     
